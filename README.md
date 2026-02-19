@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mac - John Maclaine Danao</h1>
-<h3 align="center">A tech enthusiast from Philippines</h3>
+<h3 align="center">just a tech enthusiast</h3>
 
 - 🔭 I’m currently working as a R&D Head / Manager [DXFORM Technologies](dxform.ph)
 
