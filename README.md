@@ -5,21 +5,7 @@
 
 - 🌱 I’m currently learning **How to work efficiently with AI**
 
-- 👯 I’m looking to collaborate on **anything?**
-
-- 🤝 I’m looking for help with **nothing?**
-
-- 👨‍💻 All of my projects are available at [TBD](TBD)
-
-- 📝 I regularly write articles on [nowhere](nowhere)
-
-- 💬 Ask me about **full-stack development, software architecture, system architecture and product design**
-
 - 📫 How to reach me **johnmaclained@gmail.com / maclaine@madtech.ph**
-
-- 📄 Know about my experiences [:)](:))
-
-- ⚡ Fun fact **I'm boring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
